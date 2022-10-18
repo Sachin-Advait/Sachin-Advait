@@ -8,7 +8,7 @@ I'm a self taught programmer & developer from India. I'm a passionate learner wh
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m have been working with Dart, Flutter & Python since last year.
-- 🚀 &nbsp; I’m currently learning on APIs.
+- 🚀 &nbsp; I’m currently learning rest APIs.
 - 👾 &nbsp; Fun fact: Computers run on binary code, which means that their software is written using only 1s and 0s.
 - 📫 &nbsp; How to reach me: ojaz07860@gmail.com
 
